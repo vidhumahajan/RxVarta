@@ -4,7 +4,7 @@
 
 **AI medical scribe for Indian outpatient clinics.** Consultation audio in, signed NMC-format prescription out.
 
-[Website](https://rxvarta.com) · [Contact](mailto:varad@rxvarta.com)
+[Website](https://rxvarta.com)
 
 ---
 
